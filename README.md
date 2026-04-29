@@ -55,7 +55,9 @@ zodiac-project/
 
 ## Preview
 
-Adicione aqui prints da tela do formulário e do resultado.
+<img width="605" height="706" alt="Captura de tela 2026-04-29 154926" src="https://github.com/user-attachments/assets/2dea1bc5-39e0-4b55-8086-c6052cc02968" />
+<img width="611" height="691" alt="Captura de tela 2026-04-29 154921" src="https://github.com/user-attachments/assets/43fe78ab-aada-48ef-9473-a19caad6c811" />
+
 
 ---
 
